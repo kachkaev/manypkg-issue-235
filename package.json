@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "scripts": {
+    "lint:manypkg": "manypkg check",
+    "fix:manypkg": "manypkg fix"
+  },
+  "dependencies": {
+    "@manypkg/cli": "0.22.0"
+  }
+}
